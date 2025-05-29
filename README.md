@@ -14,6 +14,10 @@
 
 使用 reset_markdown_headings.py 重置 Markdown 文件标题层级
 
+## 处理  Markdown 文件表格格式（如有需要）
+
+使用 convert_html_table_to_markdown_table.py 将 Markdown 内 Html 格式表格处理为 Markdown 标准表格格式
+
 ## 翻译 Markdown 文件
 
 使用 DeepSeek 翻译 Markdown 文件
