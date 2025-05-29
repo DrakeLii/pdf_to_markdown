@@ -17,6 +17,7 @@
 ## 处理  Markdown 文件表格格式（如有需要）
 
 使用 convert_html_table_to_markdown_table.py 将 Markdown 内 Html 格式表格处理为 Markdown 标准表格格式
+或使用 [html-to-markdown](https://tableconvert.com/html-to-markdown "跳转到 tableconvert") 在线转换工具将 Html 格式表格转换为 Markdown 标准表格格式。
 
 ## 翻译 Markdown 文件
 
